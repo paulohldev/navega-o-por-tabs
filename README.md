@@ -1,3 +1,3 @@
 # Navegação por tabs
 
-Criado para testar meus conhecimentos em lógica e JavaScript
+Criado para treinar meus conhecimentos em lógica e JavaScript
